@@ -1,0 +1,111 @@
+baseURL: "https://rijoym.github.io/"
+title: Rijoy Mukherjee
+paginate: 20
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+taxonomies:
+  tag: tags
+
+menu:
+  main:
+    - name: Bio
+      url: /bio/
+      weight: 1
+    - name: Research
+      url: /projects/
+      weight: 2
+    - name: Publication
+      url: /papers/
+      weight: 3
+    - name: Teaching
+      url: /courses/
+      weight: 4
+    # - name: Archive
+    #   url: /archive/
+    #   weight: 5
+
+params:
+  description: "I am a Ph.D. student in the [Department of Computer Science and Engineering](https://cse.iitkgp.ac.in/) at [IIT Kharagpur](https://www.iitkgp.ac.in/), advised by Prof. [Rajat Subhra Chakraborty](https://sites.google.com/site/rschakraborty/)."
+  author: Rijoy Mukherjee
+  # googleAnalyticsID: ""
+  DateFormat: "January 2006"
+  defaultTheme: light
+  hideFooter: true
+  disableThemeToggle: true
+  ShowShareButtons: false
+  ShowReadingTime: false
+  disableSpecial1stPost: true
+  disableAnchoredHeadings: true
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: false
+  ShowToc: false
+  disableScrollToTop: true
+  TocOpen: true
+  ShowWordCount: false
+  UseHugoToc: true
+  comments: false
+  math: true
+  profileMode:
+    enabled: true
+    title: Rijoy Mukherjee
+    subtitle: "<p style='text-align: justify;'>I am a <strong>Ph.D. student</strong> in the <a href='https://cse.iitkgp.ac.in/' style='text-decoration: underline;'><strong>Dept of CSE</strong></a> at <a href='https://www.iitkgp.ac.in/' style='text-decoration: underline;'><strong>IIT Kharagpur,</strong></a> advised by <a href='https://sites.google.com/site/rschakraborty/' style='text-decoration: underline;'><strong>Prof. Rajat Subhra Chakraborty.</strong></a>
+                I am funded by the <a href='https://pmrf.in/' style='text-decoration: underline;'><strong>Prime Minister Research Fellowship (PMRF)</strong></a> scheme from May 2020.
+                My research interests include exploring <strong>Large Language Models (LLMs)</strong> for all aspects of <strong>CAD</strong> and <strong>EDA</strong> workflows with the aim to integrate LLMs for various tasks, such as <strong>designing or verification of hardware</strong>. 
+                My other research interests lie at the intersection of <strong>machine learning</strong>, <strong>hardware security</strong>, and <strong>cryptography</strong>, specifically exploring hardware implementation-specific vulnerabilities of ML accelerators and developing robust, low-cost, deployable solutions for them.</p>"
+    imageUrl: "/IMG_website2.jpg"
+    imageWidth: 200
+    imageHeight: 190
+    imageTitle: Rijoy Mukherjee
+    buttons:
+      - name: Bio
+        url: /bio/
+      - name: Research
+        url: /projects/
+      - name: Publication
+        url: /papers/
+      - name: Teaching
+        url: /courses/
+
+  socialIcons:
+    - name: CV
+      url: "https://drive.google.com/file/d/1FdVJUzfiLXmDO1GDu3HJJdWcHKrPkm4a/view?usp=sharing"
+    - name: Google Scholar
+      url: "https://scholar.google.com/citations?user=w-9TDyEAAAAJ&hl=en"
+    - name: GitHub
+      url: "https://github.com/rijoym"
+    - name: Email
+      url: "mailto:rijoy.mukherjee@gmail.com,rijoy.mukherjee@iitkgp.ac.in"
+    - name: YouTube
+      url: "https://www.youtube.com/@rijoym_channel"
+
+  assets:
+    disableHLJS: true
+    disableScrollBarStyle: true
+  cover:
+    hiddenInList: true
+    hiddenInSingle: true
+  label:
+    text: "Rijoy Mukherjee"
+#    icon: /favicon.ico
+#    iconHeight: 18
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    guessSyntax: true
+    style: xcode
+  tableOfContents:
+    endLevel: 2
+    ordered: false
+    startLevel: 2
+# max number of characters:
+# * title: 70
+# * description: 120–155
+# * summary: 265
