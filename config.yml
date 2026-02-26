@@ -1,6 +1,7 @@
 baseURL: "https://rijoym.github.io/"
 title: Rijoy Mukherjee
-paginate: 20
+pagination:
+  pagerSize: 20
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -84,7 +85,6 @@ params:
       url: "https://www.youtube.com/@rijoym_channel"
 
   assets:
-    disableHLJS: true
     disableScrollBarStyle: true
   cover:
     hiddenInList: true
@@ -100,6 +100,7 @@ markup:
       unsafe: true
   highlight:
     guessSyntax: true
+    noClasses: false
     style: xcode
   tableOfContents:
     endLevel: 2
