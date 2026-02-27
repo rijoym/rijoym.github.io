@@ -3,8 +3,9 @@ title: "Bio"
 description: ""
 ---
 ## Education
-* **(2019-*) Ph.D in Computer Science and Engineering, IIT Kharagpur, India.** <br>
+* **(2019-2025) Ph.D in Computer Science and Engineering, IIT Kharagpur, India.** <br>
     Advisor: [Prof. Rajat Subhra Chakraborty](https://sites.google.com/site/rschakraborty/) <br>
+    Thesis title: Security of Domain-Specific Hardware Design: Threats and Mitigations <br>
 
 * **(2012-2016) B.Tech in Computer Science and Engineering, NIT Durgapur, India.** <br>
 	CGPA : 8.84 <br>
@@ -15,5 +16,6 @@ description: ""
 * Prime Minister Research Fellowship (2020) <br>
 ---
 ## Work Experience
+* **(2025-Present) Staff R&D Engineer at [Synopsys](https://www.synopsys.com/)** <br>
 * (2016-2019) Software Engineer at [Polaris Networks](https://www.polarisnetworks.net/)<br>
 ---

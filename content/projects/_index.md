@@ -18,7 +18,9 @@ natural language interaction.
 
 <p style='text-align: justify; font-size: 15px;'> Related Works: </p>
 
-<p style='text-align: justify; font-size: 15px;'> 1) Sneha Swaroopa, <strong>Rijoy Mukherjee</strong>, Anushka Debnath, and Rajat Subhra Chakraborty, <a href='https://arxiv.org/abs/2408.02793'>"Evaluating Large Language Models for Automatic Register Transfer Logic Generation via High-Level Synthesis,"</a> submitted to IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems.</p>
+<p style='text-align: justify; font-size: 15px;'> 1) <strong>Rijoy Mukherjee</strong> and Rajat Subhra Chakraborty (2026), <a href='https://dl.acm.org/doi/abs/10.1145/3795509'>"Detecting Hardware Trojans in High-Level Synthesis-Generated RTL using Large Language Models,"</a> ACM Transactions on Design Automation of Electronic Systems. Just Accepted (January 2026).</p>
+
+<p style='text-align: justify; font-size: 15px;'> 2) Sneha Swaroopa, <strong>Rijoy Mukherjee</strong>, Anushka Debnath, and Rajat Subhra Chakraborty (2025), <a href='https://www.emerald.com/fteda/article-abstract/14/4/295/1324715/Evaluating-Large-Language-Models-for-Automatic'>"Evaluating Large Language Models for Automatic Register Transfer Logic Generation for Combinational Circuits via High-Level Synthesis,"</a> Foundations and Trends in Electronic Design Automation, Vol. 14 No. 4 pp. 295–314.</p>
 
 ## 2. High-Level Synthesis Security
 <p style='text-align: justify;'>Modern IC design relies on proprietary CAD software and third-party hardware IP cores. 
@@ -37,7 +39,9 @@ that can effectively counter these threats.
 
 <p style='text-align: justify; font-size: 15px;'> Related Works: </p>
 
-<p style='text-align: justify; font-size: 15px;'> 1) <strong>Rijoy Mukherjee</strong>, Archisman Ghosh, and Rajat Subhra Chakraborty, <a href='https://dl.acm.org/doi/full/10.1145/3663477'>"HLS-IRT: Hardware Trojan Insertion through Modification of Intermediate Representation During High-Level Synthesis,"</a> in ACM Transactions on Design Automation of Electronic Systems, 29, 5, Article 81 (September 2024), 23 pages.</p>
+<p style='text-align: justify; font-size: 15px;'> 1) <strong>Rijoy Mukherjee</strong> and Rajat Subhra Chakraborty (2026), <a href='https://dl.acm.org/doi/abs/10.1145/3795509'>"Detecting Hardware Trojans in High-Level Synthesis-Generated RTL using Large Language Models,"</a> ACM Transactions on Design Automation of Electronic Systems. Just Accepted (January 2026).</p>
+
+<p style='text-align: justify; font-size: 15px;'> 2) <strong>Rijoy Mukherjee</strong>, Archisman Ghosh, and Rajat Subhra Chakraborty, <a href='https://dl.acm.org/doi/full/10.1145/3663477'>"HLS-IRT: Hardware Trojan Insertion through Modification of Intermediate Representation During High-Level Synthesis,"</a> in ACM Transactions on Design Automation of Electronic Systems, 29, 5, Article 81 (September 2024), 23 pages.</p>
 
 ## 3. Hardware-specific Security of Deep Neural Networks
 <p style='text-align: justify;'>Consider the following threats:</p>
@@ -69,6 +73,8 @@ and development of robust, low-cost, deployable solutions for them.
 
 <p style='text-align: justify; font-size: 15px;'> Related Works: </p>
 
-<p style='text-align: justify; font-size: 15px;'> 1) <strong>Rijoy Mukherjee</strong> and Rajat Subhra Chakraborty, <a href='https://ieeexplore.ieee.org/document/10115275'>"Attacks on Recent DNN IP Protection Techniques and Their Mitigation,"</a> in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol. 42, no. 11, pp. 3642-3650, Nov. 2023.</p>
+<p style='text-align: justify; font-size: 15px;'> 1) <strong>Rijoy Mukherjee</strong>, Sneha Swaroopa, and Rajat Subhra Chakraborty, <a href='https://ieeexplore.ieee.org/document/10915219'>"Security Vulnerabilities in AI Hardware: Threats and Countermeasures,"</a> in 2024 IEEE 33rd Asian Test Symposium (ATS), Ahmedabad, India, 2024, pp. 1-6.</p>
 
-<p style='text-align: justify; font-size: 15px;'> 2) <strong>Rijoy Mukherjee</strong> and Rajat Subhra Chakraborty, <a href='https://ieeexplore.ieee.org/document/9734742'>"Novel Hardware Trojan Attack on Activation Parameters of FPGA-Based DNN Accelerators,"</a> in IEEE Embedded Systems Letters, vol. 14, no. 3, pp. 131-134, Sept. 2022.</p>
+<p style='text-align: justify; font-size: 15px;'> 2) <strong>Rijoy Mukherjee</strong> and Rajat Subhra Chakraborty, <a href='https://ieeexplore.ieee.org/document/10115275'>"Attacks on Recent DNN IP Protection Techniques and Their Mitigation,"</a> in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol. 42, no. 11, pp. 3642-3650, Nov. 2023.</p>
+
+<p style='text-align: justify; font-size: 15px;'> 3) <strong>Rijoy Mukherjee</strong> and Rajat Subhra Chakraborty, <a href='https://ieeexplore.ieee.org/document/9734742'>"Novel Hardware Trojan Attack on Activation Parameters of FPGA-Based DNN Accelerators,"</a> in IEEE Embedded Systems Letters, vol. 14, no. 3, pp. 131-134, Sept. 2022.</p>
