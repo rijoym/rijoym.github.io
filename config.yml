@@ -29,7 +29,7 @@ menu:
     #   weight: 5
 
 params:
-  description: "I am a Ph.D. student in the [Department of Computer Science and Engineering](https://cse.iitkgp.ac.in/) at [IIT Kharagpur](https://www.iitkgp.ac.in/), advised by Prof. [Rajat Subhra Chakraborty](https://sites.google.com/site/rschakraborty/)."
+  description: "I completed my Ph.D. in Computer Science and Engineering from [Department of Computer Science and Engineering](https://cse.iitkgp.ac.in/) at [IIT Kharagpur](https://www.iitkgp.ac.in/), advised by Prof. [Rajat Subhra Chakraborty](https://sites.google.com/site/rschakraborty/)."
   author: Rijoy Mukherjee
   # googleAnalyticsID: ""
   DateFormat: "January 2006"
@@ -54,10 +54,10 @@ params:
   profileMode:
     enabled: true
     title: Rijoy Mukherjee
-    subtitle: "<p style='text-align: justify;'>I am a <strong>Ph.D. student</strong> in the <a href='https://cse.iitkgp.ac.in/' style='text-decoration: underline;'><strong>Dept of CSE</strong></a> at <a href='https://www.iitkgp.ac.in/' style='text-decoration: underline;'><strong>IIT Kharagpur,</strong></a> advised by <a href='https://sites.google.com/site/rschakraborty/' style='text-decoration: underline;'><strong>Prof. Rajat Subhra Chakraborty.</strong></a>
-                I am funded by the <a href='https://pmrf.in/' style='text-decoration: underline;'><strong>Prime Minister Research Fellowship (PMRF)</strong></a> scheme from May 2020.
-                My research interests include exploring <strong>Large Language Models (LLMs)</strong> for all aspects of <strong>CAD</strong> and <strong>EDA</strong> workflows with the aim to integrate LLMs for various tasks, such as <strong>designing or verification of hardware</strong>. 
-                My other research interests lie at the intersection of <strong>machine learning</strong>, <strong>hardware security</strong>, and <strong>cryptography</strong>, specifically exploring hardware implementation-specific vulnerabilities of ML accelerators and developing robust, low-cost, deployable solutions for them.</p>"
+    subtitle: "<p style='text-align: justify;'>I am currently a <strong>Staff R&amp;D Engineer</strong> at <strong>Synopsys</strong>, part of the <strong>VC Formal R&amp;D</strong> team, working specifically on the application of generative AI for next-gen formal verification of hardware.
+                Previously, I completed my <strong>Ph.D.</strong> in Computer Science and Engineering from the <a href='https://cse.iitkgp.ac.in/' style='text-decoration: underline;'><strong>Dept of CSE</strong></a> at <a href='https://www.iitkgp.ac.in/' style='text-decoration: underline;'><strong>IIT Kharagpur,</strong></a> advised by <a href='https://sites.google.com/site/rschakraborty/' style='text-decoration: underline;'><strong>Prof. Rajat Subhra Chakraborty.</strong></a>
+                I was awarded the <a href='https://pmrf.in/' style='text-decoration: underline;'><strong>Prime Minister Research Fellowship (PMRF)</strong></a> during my Ph.D. tenure.
+                My research focuses on exploring <strong>generative AI</strong> methodologies for advancing <strong>electronic design automation (EDA)</strong> workflows. I am particularly interested in leveraging <strong>large language models (LLMs)</strong> to aid and automate various computer-aided design tasks, including <strong>hardware design</strong> and <strong>verification</strong>.</p>"
     imageUrl: "/IMG_website2.jpg"
     imageWidth: 200
     imageHeight: 190
@@ -74,13 +74,13 @@ params:
 
   socialIcons:
     - name: CV
-      url: "https://drive.google.com/file/d/1FdVJUzfiLXmDO1GDu3HJJdWcHKrPkm4a/view?usp=sharing"
+      url: "https://drive.google.com/file/d/1ftY1IjbZXWwPoL_Pm3kX7pk3NNX4EGEC/view?usp=sharing"
     - name: Google Scholar
       url: "https://scholar.google.com/citations?user=w-9TDyEAAAAJ&hl=en"
     - name: GitHub
       url: "https://github.com/rijoym"
     - name: Email
-      url: "mailto:rijoy.mukherjee@gmail.com,rijoy.mukherjee@iitkgp.ac.in"
+      url: "mailto:rijoy.mukherjee@gmail.com"
     - name: YouTube
       url: "https://www.youtube.com/@rijoym_channel"
 
